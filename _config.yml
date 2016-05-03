@@ -1,3 +1,6 @@
 name: Flex
-# markdown: redcarpet
-pygments: true
+description: A webpage for some of my projects using the Flex template
+url: "http://pollardJ.github.io"
+markdown: kramdown
+# pygments: true
+highlighter: rouge
